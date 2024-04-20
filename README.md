@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @shuvonandi
 -. Skills- HTML
          -CSS
+         -Javascript
+         -Reactjs
+         -Java 
          -PYTHON
 - 👀 I’m interested in WEBSITE DEVELOPMENT
-- 🌱 I’m currently learning WEBSITES DEVELOPMENT, SOFTWARE DEVELOPMENT, ARTIFICIAL INTELLIGENCE
-- 💞️ I’m looking to collaborate on Software development & Artificial intelligence
+- 🌱 I’m currently learning WEBSITES DEVELOPMENT, SOFTWARE DEVELOPMENT, 
+Artificial intelligence
+- 💞️ I’m looking to collaborate on frontend , Software development & Artificial intelligence
 - 📫 How to reach me shuvonandi82@gmail.com
 
 <!---
